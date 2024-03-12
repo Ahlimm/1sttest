@@ -22,15 +22,15 @@
 "May enter foreign tiles without open borders",
 "Ranged attacks may be performed over obstacles",
 "Never appears as a Barbarian unit",
-"May withdraw before melee ([100]%)",
-"[100]% chance to intercept air attacks",
-"[-100]% Strength for enemy [All] units in adjacent [All] tiles",
-"[+100]% Strength <vs [All] units>",
-"[+2] Sight",
+"May withdraw before melee ([1000]%)",
+"[1000]% chance to intercept air attacks",
+"[-1000]% Strength for enemy [All] units in adjacent [All] tiles",
+"[+1000]% Strength <vs [All] units>",
+"[+5] Sight",
 "[5] additional attacks per turn",
-"[+100]% Strength <vs cities>",
-"[+100]% XP gained from combat",
-"Heals [100] damage if it kills a unit"
+"[+1000]% Strength <vs cities>",
+"[+1000]% XP gained from combat",
+"Heals [1000] damage if it kills a unit"
                 ]
         }
 ]
