@@ -30,6 +30,17 @@
 "outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniques": [
+"Remove extra unhappiness from annexed cities",
+"Enemy [All] units must spend [5] extra movement points when inside your territory",
+"All newly-trained [All] units [in all cities] receive the [Divine Aura] promotion",
+"Empire enters a [100]-turn Golden Age",
+"[+100]% Golden Age length",
+"[-100]% Unhappiness from [Population] [in all cities]",
+"Population loss from nuclear attacks [-100]% [in all cities]",
+"Damage to garrison from nuclear attacks [-100]% [in all cities]",
+"[-100]% construction time for [All] improvements",
+"[-100]% Gold cost of acquiring tiles [in all cities]",
+
 "Adopt [Tradition]",
 "Adopt [Aristocracy]",
 "Adopt [Landed Elite]",
