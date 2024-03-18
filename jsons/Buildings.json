@@ -11,9 +11,9 @@
 		"food": 1000000,
 		"production": 100,
 		"happiness": 100,
-		"culture": 50,
-		"science": 50,
-		"faith": 1,
+		"culture": 100,
+		"science": 100,
+		"faith": 100,
 		"maintenance": 0,
 		"uniques": [
 "Indicates the capital city",
