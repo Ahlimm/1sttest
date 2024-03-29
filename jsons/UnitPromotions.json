@@ -27,7 +27,7 @@
 "[-1000]% Strength for enemy [All] units in adjacent [All] tiles",
 "[+1000]% Strength <vs [All] units>",
 "[+5] Sight",
-"[5] additional attacks per turn",
+"[100] additional attacks per turn",
 "[+1000]% Strength <vs cities>",
 "[+1000]% XP gained from combat",
 "Heals [1000] damage if it kills a unit"
