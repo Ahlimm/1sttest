@@ -2,11 +2,10 @@
 {
 "name": "Ahya",
 "uniqueTo": "Ahyanian",
-"unitType": "Ranged",
+"unitType": "Melee",
 "replace": "Scout",
 "movement": 100,
 "strength": 500,
-"range": 5,
 "cost": 0,
 "promotions": [
 "Divine Aura"
